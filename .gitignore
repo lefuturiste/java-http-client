@@ -1,0 +1,7 @@
+.idea
+null
+tmp
+*.iml
+/tmp/
+/null/
+/.idea/
